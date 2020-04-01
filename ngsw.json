@@ -20,7 +20,7 @@
 	"navigationUrls": [
 		{
 			"positive": true,
-			"regex": "^\\/.*"
+			"regex": "^\\/.*$"
 		}
 	]
 }
